@@ -1,22 +1,3 @@
-# import requests
-
-# def fetch_and_manipulate_users():
-#     # URL of the Flask backend
-#     url = "http://127.0.0.1:5000/users"
-
-#     response = requests.get(url)
-#     print(response)
-#     response.raise_for_status()  # Raise an HTTPError for bad responses
-#     users = response.json()
-#     print(users)
-
-#     for user in users:
-#         user_companies = {user["company_name"]}
-#         print(user_companies)
-
-
-# if __name__ == "__main__":
-#     fetch_and_manipulate_users()
 import requests
 
 def fetch_and_manipulate_users():

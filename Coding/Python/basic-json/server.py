@@ -8,19 +8,19 @@ def get_users():
         {
             "id": 1,
             "name": "Leanne Graham",
-            "email": "Sincere@april.biz",
+            "email": "lgraham@Romaguera.biz",
             "company_name": "Romaguera-Crona"
         },
         {
             "id": 2,
             "name": "Ervin Howell",
-            "email": "Shanna@melissa.tv",
+            "email": "ervin.howell@melissa.tv",
             "company_name": "Deckow-Crist"
         },
         {
             "id": 3,
             "name": "Clementine Bauch",
-            "email": "Nathan@yesenia.net",
+            "email": "cbauch@Romaguera.net",
             "company_name": "Romaguera-Jacobson"
         }
     ]

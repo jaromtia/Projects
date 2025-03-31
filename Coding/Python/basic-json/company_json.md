@@ -16,7 +16,7 @@ def fetch_and_process_users():
     Requirements:
     1. Fetch all users from the API
     2. Implement methods to sort users by:
-       a) Name (alphabetically)
+       a) Name (alphabetically) 
        b) Company name
        c) Unique ID number
     3. Return a list of dictionaries with the following simplified user info:
@@ -24,13 +24,13 @@ def fetch_and_process_users():
        - name
        - email
        - company name
-    
+     
     Example output format:
     [
         {
             'id': 1,
             'name': 'Leanne Graham',
-            'email': 'Sincere@april.biz',
+            'email': 'lgraham@reomaguera.biz',
             'company_name': 'Romaguera-Crona'
         },
         ...
