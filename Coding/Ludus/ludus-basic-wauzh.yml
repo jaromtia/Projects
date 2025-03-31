@@ -1,7 +1,7 @@
 ludus:
   - vm_name: "{{ range_id }}-white-team"
     hostname: "{{ range_id }}-white-team"
-    template: ubuntu-22.04-x64-server-template
+    template: ubuntu-24.04-x64-server-template
     vlan: 20
     ip_last_octet: 1
     ram_gb: 16
